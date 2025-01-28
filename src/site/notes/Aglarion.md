@@ -3,9 +3,9 @@
 ---
 
 
-The land of Aglarion has a rich past spanning thousands of years. Influenced by several multi-planar cataclysmic planes of existence. Since the dawn of time and prehistory to the current day, the rulers and monarchy have changed several times. Several key events have shaped it's past, like the [[Age of the Dark Angels\|Age of the Dark Angels]], [[The Age of Brightness\|The Age of Brightness]], or [[The Age of Kings\|The Age of Kings]].
+The land of Aglarion has a rich past spanning thousands of years. Influenced by several multi-planar cataclysmic planes of existence. Since the dawn of time and prehistory to the current day, the rulers and monarchy have changed several times. Several key events have shaped it's past, like the [[Age of the Dark Angels\|Age of the Dark Angels]] brought forth by the Dark Star, [[The Age of Brightness\|The Age of Brightness]] paved by [[Sarath\|Sarath]] and [[King Rodnar\|Rodnar]], or [[The Age of Kings\|The Age of Kings]] created by [[Razmyrel Melkar\|King Razmyrel]] and [[Arlen the Constructor\|Arlen the Constructor]].
 
-The kingdom of Aglarion is a thriving realm. Times of plenty and open-minded philosophies encourage in a relatively level toleration of all being, even those rarely encountered. The kingdom is rich, its armies powerful and well-equipped, and the law is paramount under the popular king. Even in these calm and tranquil times, the kingdom is never short of adventure, danger, and evils lurking behind this veil of peace.
+The kingdom of Aglarion is a thriving realm. Times of plenty and open-minded philosophies encourage in a relatively level toleration of all beings, even those rarely encountered. The kingdom is rich, its armies powerful and well-equipped, and the law is paramount under the popular king. Even in these calm and tranquil times, the kingdom is never short of adventure, danger, and evils lurking behind this veil of peace.
 
 # Religions
 
