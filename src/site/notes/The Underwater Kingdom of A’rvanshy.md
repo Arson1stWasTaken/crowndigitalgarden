@@ -1,0 +1,9 @@
+---
+{"dg-publish":true,"permalink":"/the-underwater-kingdom-of-a-rvanshy/"}
+---
+
+Also known as the Kingdom in the Deep to landdwellers, this kingdom dates back to an era far before the reign of the Dark Star. It was a central hub for merfolk and sea elves, and they lived together in peaceful tribes for hundreds of years. They have had a few minor disagreements, but no major violence.
+
+Their kingdom is guarded by their ancient gargantuan dragon turtle ally, [[Gulantraxio\|Gulantraxio]]. However, the Sahuagin threatened their peaceful existence. Together with [[Gulantraxio\|Gulantraxio]], they formed a defense against the Sahuagin. Led by shapechanging [[The Dark Angels\|Dark Angels]], the Sahuagin managed to kidnap and take a few as slaves, but their forces were unable to conquer the Kingdom of the Deep. Seeking peace once more, the remaining citizens of the Kingdom of the Deep fled further into an undersea trench, where they founded the Kingdom A'rvanshy. Their city was untouched until an Ancient Green Dragon known as [[Ossiazzxontyr\|Ossiazzxontyr]] discovered their city, seeking ancient lore. However, the Dragon dared not to attack the city alone, for it knew it would lose. Instead, the dragon awakened a legendary beast, the [[Kraken-Mage Morgawr\|Kraken-Mage Morgawr]], offering the city as a sacrifice to feed the beasts hunger. 
+
+However, [[Ossiazzxontyr\|Ossiazzxontyr]] did not anticipate that [[Kraken-Mage Morgawr\|Morgawr]] would enslave the city instead of feasting upon them. It turned any who were unwilling to serve into mindless puppets, it then murdered [[Gulantraxio\|Gulantraxio]] and made it an undead puppet to guard the city. [[Kraken-Mage Morgawr\|Morgawr]] now plans to achieve immortality by becoming a Lich, and subsequently obtaining even more power. Now, the only thing anyone knows of this ancient kingdom is simply that they disappeared one day, never to be seen again.  

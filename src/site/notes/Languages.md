@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/languages/"}
+---
+
+Most inhabitants of [[Aglarion\|Aglarion]] and the surrounding regions speak the Common tongue. In [[Aglarion\|Aglarion]] people speak Aglarionian, and some of the neighboring countries also have their own languages, namely Vordani, or Draylish, which is spoken in many dialects. In [[The Isle of Xantharos\|The Isle of Xantharos]] the half-dragons speak Draconic. The dark angels and their descendants that inhabit the remote and unexplored [[The Ziggurat City of Xapto'wa'ttkyal\|The Ziggurat City of Xapto'wa'ttkyal]] speak a twisted and dark version of Celestial. The subjects of the kraken-mage’s domain in [[The Underwater Kingdom of A’rvanshy\|The Underwater Kingdom of A’rvanshy]] speak the Aquatic tongue. Racial languages are also commonly spoken throughout the land, many of them used only within a family or in a closed community.

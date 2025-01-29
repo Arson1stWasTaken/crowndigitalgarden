@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/the-seven-thorns/"}
+---
+
+This is what remains of an ancient druid order. They were known as the seven flowers, founded by feyrealm-born gnomes. However, their ways were turned upside down when [[The Dark Star\|the Dark Star]] and his Angels descended upon the Material Plane. They fled further into the feywild, and brought any refugees they could. They had only small scouts on the Material Plane, who eventually joined the Revolution of [[Sarath\|Sarath]] against [[The Dark Star\|the Dark Star]]. When the order returned, as they began to heal nature, the [[King Rodnar\|King Rodnar]] the All-Seeing, had their order rounded up and executed for not worshipping the light over nature. A small survivor group led by a gnome known as Zilmop fled and hid his comrades in a feywild sanctuary. They now name themselves the Seven Thorns, and anyone who enters their woods will any ill-intent in their heart never returns.

@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/red-cloaked-lawbringers/"}
+---
+
+The first king, King [[Razmyrel Melkar\|Razmyrel Melkar]], laid down laws while wearing a red cloak. It was to remind of blood spilled and anguish caused if laws were unjust and unenforced. He organized the Lawbringers, who were to enforce the law for years to come. Members of the organization take their job seriously, and enforce the law indiscriminately. They even opposed the corruptive deals made by King Talanar Ebrin I, in response he removed their power. However, King Vacrilos Azennar I reinstated their previous priviliges. Today, the Lawbringers are highly respected and feared. There are about 50 Red Cloaks within [[Aglarion\|Aglarion]], and they are elite warriors. They work in small groups of 3, duos or even alone.

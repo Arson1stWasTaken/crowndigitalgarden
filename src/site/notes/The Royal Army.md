@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/the-royal-army/"}
+---
+
+A well-organized and structured militant force. They are one of the main pillars of the realm. They are a thousand strong, consisting of many smaller and specialized branches which are extremely hierarchic. The largest of these units is the Royal Swords, they form the first line of defense in wars and upkeep peace throughout the kingdom. Units of twenty of these Royal Swords are commanded by Captains who report to the Three Generals. These Three Generals ([[General Sundamar Stormbreaker\|General Sundamar Stormbreaker]], [[General Malictus Crast\|General Malictus Crast]], and [[General Brennur Starsmit\|General Brennur Starsmit]]) are the highest ranking officials of the Royal Army. The Royal Army heavily relies on Clergymen of faith to upkeep and heal their wounded, and they have very few arcane-touched members. They rely on the [[Wizards of the Arcane Tower\|Wizards of the Arcane Tower]] for organized arcane support.
