@@ -48,9 +48,9 @@ The ecological environment of Aglarion isn't particularly striking. However, it 
 
 # Laws
 
-The streets of Aglarion are kept safe by soldiers of [[The Royal Army\|the Royal Army]] and forces of local nobles. These soldiers can alert Red Cloaks, and will attempt to get the situation under control until a Red Cloaked Lawbringer can arrive at the scene.
+The streets of Aglarion are kept safe by soldiers of [[The Royal Army\|the Royal Army]] and forces of local nobles. These soldiers can alert [[Red Cloaked Lawbringers\|Red Cloaks]], and will attempt to get the situation under control until a [[Red Cloaked Lawbringers\|Red Cloaked Lawbringer]] can arrive at the scene.
 
-Calling for a guard can be done so just by shouting for one. Any guard possesses means to contact a nearby Red Cloaked Lawbringer, although the further from [[Onadbyr\|Onadbyr]], the less likely one will be available.
+Calling for a guard can be done so just by shouting for one. Any guard possesses means to contact a nearby [[Red Cloaked Lawbringers\|Red Cloaked Lawbringer]], although the further from [[Onadbyr\|Onadbyr]], the less likely one will be available.
 
 [[Written Law\|Written Law]]
 [[The Court of Voices\|The Court of Voices]]

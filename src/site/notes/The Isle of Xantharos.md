@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/the-isle-of-xantharos/"}
 ---
 
-Numerous scattered island and an archipelago to the east of Aglarion form the Isle of Half-Dragons, Xantharos. The Isle is formed from the remains of [[Xantharos, the All-Dragon\|Xantharos, the All-Dragon]]. Xantharos was one of the two Original fey-dragons. [[Xantharos, the All-Dragon\|Xantharos, the All-Dragon]] reigned over the feywild until he was banished to the [[Material Plane\|Material Plane]] by [[Faeryl Myrryn\|Faeryl Myrryn]], a powerful Drow Vampire Conjurer. 
+Numerous scattered island and an archipelago to the east of [[Aglarion\|Aglarion]] form the Isle of Half-Dragons, Xantharos. The Isle is formed from the remains of [[Xantharos, the All-Dragon\|Xantharos, the All-Dragon]]. Xantharos was one of the two Original fey-dragons. [[Xantharos, the All-Dragon\|Xantharos, the All-Dragon]] reigned over the feywild until he was banished to the [[Material Plane\|Material Plane]] by [[Faeryl Myrryn\|Faeryl Myrryn]], a powerful Drow Vampire Conjurer. 
 
 [[Xantharos, the All-Dragon\|Xantharos, the All-Dragon]] was thrust into a broken and ruined [[Aglarion\|Aglarion]]. He immediately did battle with the Dark Star. [[The Dark Star\|The Dark Star]] and its [[The Dark Angels\|Angelic Forces]] won after a short, but extremely bloody struggle and reduced the [[Xantharos, the All-Dragon\|All-Dragon]] to a mere corpse. The [[Xantharos, the All-Dragon\|All-Dragon]] fell into the sea, and its corpse formed into the geography as centuries passed. The immense draconic energy of the [[Xantharos, the All-Dragon\|All-Dragon]] began to transform the inhabitants into Half-Dragons, Dragonborn, and Kobolds. 
 

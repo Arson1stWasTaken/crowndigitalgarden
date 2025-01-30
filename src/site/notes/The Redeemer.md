@@ -4,7 +4,7 @@
 
 A trusting and loving figure. The Redeemer is very caring of every mortal, and by far enjoys them far more than any other God. However, they can get a bit tunnel-visioned.
 
-During the early days of the earth, the Redeemer imbued each creature with a divine spark, a shard of its own soul. Yet, all the same they were doomed to die. This filled the Redeemer with contempt for their counterpart, [[The Inevitable\|The Inevitable]]. He descended down to the [[Hel\|Hel]] that [[The Inevitable\|the Inevitable]] lived within. 
+During the early days of the earth, the Redeemer imbued each creature with a divine spark, a shard of its own soul. Yet, all the same they were doomed to die. This filled the Redeemer with contempt for their counterpart, [[The Inevitable\|The Inevitable]]. He descended down to the [[The Underworld\|The Underworld]] that [[The Inevitable\|the Inevitable]] lived within. 
 
 He demanded that he explain why he took every mortal from them. [[The Inevitable\|The Inevitable]] only answered that the Eternal Cycle must be upheld. All that begins, ends. In order to prove this fact, [[The Inevitable\|the Inevitable]] gave the Redeemer a dying beetle. The beetle grew strong when embraced by the Redeemer. 
 
